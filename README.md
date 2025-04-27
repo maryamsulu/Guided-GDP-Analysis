@@ -23,5 +23,5 @@ Gross Domestic Product (GDP) is a key indicator of a country's economic health. 
 - Data visualization
 
 ## Recommendations
-
-## Download 
+- Recommendation  1
+- Recommendation 2
